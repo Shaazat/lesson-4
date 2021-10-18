@@ -1,4 +1,4 @@
-import 'dart:io'as go;
+import 'dart:io' as go;
 
 void main() {
   int x = 19;
@@ -6,7 +6,9 @@ void main() {
   //y ~/= x;
   var name = "dsas";
   //y = y + x;
-  if(y is! int && x  is int){
+  if (y is! int && x is int) {
     print("y is int");
   }
- // print(object)}
+
+  print("Новый код");
+}
