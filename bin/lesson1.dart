@@ -10,5 +10,5 @@ void main() {
     print("y is int");
   }
 
-  print("Новый код");
+  print("Новый код 2");
 }
